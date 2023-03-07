@@ -11,7 +11,6 @@ int main(){
     printf("*odd = %d\n", *odd);
     printf("*odd+1 = %d\n", *odd+1);
     printf("*(odd+1) = %d\n\n", *(odd+1));
-    printf("Hello world\n");
 	system("pause");
 
 }
